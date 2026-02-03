@@ -13,5 +13,5 @@ class mineralraro extends claseabstracta {
 
     public function getExtra() {
         return $this->dureza;
-    }
+}    
 }
